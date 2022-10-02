@@ -1,0 +1,265 @@
+{
+  "message": "technology",
+  "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "RIP Apple Touch Bar - CNET",
+      "description": "After five years, Apple throws away its OLED control strip in favor of physical keys. Let's take a look at the life and times of the Apple Touch Bar.0:00 Int...",
+      "url": "https://www.youtube.com/watch?v=cWm5esFwEuQ",
+      "urlToImage": "https://i.ytimg.com/vi/cWm5esFwEuQ/maxresdefault.jpg",
+      "publishedAt": "2021-11-11T13:00:17Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "https://www.engadget.com/about/editors/mat-smith",
+      "title": "The Morning After: PS5 and Xbox Series X and S, one year on - Engadget",
+      "description": "Today’s headlines:\n\nCongress mandates anti-drunk driving technology for cars, iOS 15.2 beta introduces nearby AirTag searches, and YouTube will hide dislike counts for all videos..",
+      "url": "https://www.engadget.com/the-morning-after-ps-5-and-xbox-series-x-and-s-one-year-on-121946305.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2020-11/895195c0-229c-11eb-af7e-e9006ba34d3b",
+      "publishedAt": "2021-11-11T12:21:17Z",
+      "content": "The PlayStation 5 and Xbox Series X/S debuted one year ago this month. To celebrate, weve made a 20-minute video conversation about the pros, cons and future of both consoles, hosted by PS5 enthusias… [+4634 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nintendo Life"
+      },
+      "author": "Kate Gray",
+      "title": "Animal Crossing Polish - Every Polish Effect Full List, How To Polish In Happy Home Paradise DLC - Nintendo Life",
+      "description": "Shine bright like a diamond",
+      "url": "https://www.nintendolife.com/guides/animal-crossing-polish-every-polish-effect-full-list-how-to-polish-in-happy-home-paradise-dlc",
+      "urlToImage": "https://images.nintendolife.com/d57b8143fec2e/1280x720.jpg",
+      "publishedAt": "2021-11-11T11:51:31Z",
+      "content": "Image: Nintendo Life\r\nYou would be forgiven for thinking that polishing, one of the new features introduced in Animal Crossing: New Horizons' Happy Home Paradise expansion (which is quite a mouthful)… [+6435 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wccftech"
+      },
+      "author": "Francesco De Meo",
+      "title": "Forza Horizon 5 Looks Glorious In 8K Resolution With Full Open-World Ray Tracing; New Comparison Video Highlights Xbox Cloud Version’s Quality - Wccftech",
+      "description": "Forza Horizon 5's ray tracing features are limited to the Forza Vista mode, but a simple Cheat Engine tweak can enable these features in other gameplay situations. A few hours ago, German modder Digital Dreams released a video showcasing the game running with…",
+      "url": "https://wccftech.com/forza-horizon-5-full-open-world-ray-tracing/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2021/11/Forza-Horizon-5-full-ray-tracing-scaled.jpg",
+      "publishedAt": "2021-11-11T11:11:08Z",
+      "content": "Forza Horizon 5's ray tracing features are limited to the Forza Vista mode, but a simple Cheat Engine tweak can enable these features in other gameplay situations.\r\nA few hours ago, German modder Dig… [+2163 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Battlefield 2042: Hazard Zone Victory Gameplay - IGN",
+      "description": "This is Battlefield 2042: Hazard Zone, a squad survival experience in which you're inserted into enemy territory to retrieve high-value intel. In this Battle...",
+      "url": "https://www.youtube.com/watch?v=-Ep4pNSeugo",
+      "urlToImage": "https://i.ytimg.com/vi/-Ep4pNSeugo/hqdefault.jpg",
+      "publishedAt": "2021-11-11T11:03:50Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Matt Purslow",
+      "title": "Sony Reportedly Cuts PS5 Production Plans, Making Even It Harder to Get One - IGN",
+      "description": "Sony has reportedly cut the number of PS5 it plans to produce due to supply and logistic problems.",
+      "url": "https://www.ign.com/articles/ps5-production-cut-supply-issues",
+      "urlToImage": "https://assets1.ignimgs.com/thumbs/userUploaded/2021/4/16/ps5ssd-explainerbr-1618590235249.jpg?width=1280",
+      "publishedAt": "2021-11-11T10:59:50Z",
+      "content": "Sony has reportedly cut production plans for the PlayStation 5 by around one million consoles due to component shortages and logistic constraints. And with less consoles being produced, it could be h… [+1350 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GamesRadar+"
+      },
+      "author": "Hirun Cryer",
+      "title": "GTA Trilogy pulled on PSN Store after pre-orders unlock early - Gamesradar",
+      "description": "The remastered package can only be Wishlisted on PSN",
+      "url": "https://www.gamesradar.com/gta-trilogy-pulled-on-psn-store-after-pre-orders-unlock-early/",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/cfhup9WYgMQhzac4CrGxyf-1200-80.jpeg",
+      "publishedAt": "2021-11-11T10:55:29Z",
+      "content": "GTA Trilogy pre-orders on PlayStation have been pulled after accidentally unlocking early.\r\nEarlier today on November 11, it was reported that some players who pre-ordered the game on PS4 and PS5 con… [+1481 chars]"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "James Rogerson",
+      "title": "Google Pixel 6 just got a new feature and might soon get another - TechRadar",
+      "description": "Adaptive Sound and face unlock",
+      "url": "https://www.techradar.com/news/google-pixel-6-just-got-a-new-feature-and-might-soon-get-another",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/dxFshA8YSkbeMbMNNUCTcU-1200-80.jpg",
+      "publishedAt": "2021-11-11T10:41:46Z",
+      "content": "Phones aren’t finished at launch, with companies often adding new features over time through software updates, and one such feature seems to have just landed on the Google Pixel 6 and Google Pixel 6 … [+2214 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "https://www.engadget.com/about/editors/mariella-moon",
+      "title": "Netflix enables its bandwidth-saving AV1 codec on PS4 Pro and select TVs - Engadget",
+      "description": "Netflix says AV1 delivers better video quality and uses lesser bandwidth than the codecs it's currently using..",
+      "url": "https://www.engadget.com/netflix-av1-streaming-ps4-pro-select-tv-093538314.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-images/2019-10/87a4d8b0-e551-11e9-af83-d260a5f00ba0",
+      "publishedAt": "2021-11-11T09:39:29Z",
+      "content": "Early last year, Netflix started using a new codec called AV1 on a select set of titles on Android. Now, the streaming giant has enabled AV1 streaming on the PS4 Pro and a limited number of smart TV … [+1798 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jon Porter",
+      "title": "iCloud for Windows gets a built in password generator - The Verge",
+      "description": "Apple’s iCloud Windows app has added a password generator, as well as support for Apple’s ProRaw and ProRes photo and video formats. It also gets the ability for participants of a shared iCloud Drive file or folder to add or remove other users.",
+      "url": "https://www.theverge.com/2021/11/11/22775976/icloud-for-windows-password-generator-prores-proraw",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/snENTwSMqHhhjGi4XGhCP0uasD8=/0x86:1198x713/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23004979/2021_11_10_18_45_58_Microsoft_Store.png",
+      "publishedAt": "2021-11-11T09:32:48Z",
+      "content": "As well as support for Apples ProRaw and ProRes files\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\niCloud for Windows password manager in actio… [+1596 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Grand Theft Auto San Andreas: Definitive Edition - First 17 Minutes of Gameplay on PS5 (4K) - IGN",
+      "description": "Here we go again. Check out the opening moments of GTA: San Andreas now enhanced for a whole new generation. Grand Theft Auto: San Andreas brings the GTA wor...",
+      "url": "https://www.youtube.com/watch?v=SO3ngsIwDZ0",
+      "urlToImage": "https://i.ytimg.com/vi/SO3ngsIwDZ0/maxresdefault.jpg",
+      "publishedAt": "2021-11-11T09:00:07Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wccftech"
+      },
+      "author": "Furqan Shahid",
+      "title": "PUBG: New State Officially Released Globally - Wccftech",
+      "description": "Krafton, the mind behind PUBG, has finally gone ahead and released PUBG: New State around the world. The game is now available on Google Play Store, App Store, and Galaxy Store and can be downloaded and played in over 200 countries. PUBG: New State is Finally…",
+      "url": "https://wccftech.com/pubg-new-state-officially-released-globally/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2021/11/unnamed.png",
+      "publishedAt": "2021-11-11T08:55:34Z",
+      "content": "Krafton, the mind behind PUBG, has finally gone ahead and released PUBG: New State around the world. The game is now available on Google Play Store, App Store, and Galaxy Store and can be downloaded … [+1894 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "EventHubs"
+      },
+      "author": "Dakota 'DarkHorse' Hills",
+      "title": "Whip announced for The King of Fighters 15 with new trailer - EventHubs",
+      "description": "Slots are starting to run low for the starting roster for The King of Fighters 15, and another one got crossed out tonight.SNK announced that Whip will be the next character to join KOF15 via a new gameplay trailer.",
+      "url": "https://www.eventhubs.com/news/2021/nov/10/whip-kof15-announcement/",
+      "urlToImage": "https://media.eventhubs.com/images/2021/11/10-whip-kof15-announcementt.webp",
+      "publishedAt": "2021-11-11T01:51:02Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Florence Ion",
+      "title": "How to Block Your Ex (or Other Annoying Users) on Spotify - Gizmodo",
+      "description": "The company has finally introduced a way to block another user without the hassle of contacting customer service.",
+      "url": "https://gizmodo.com/how-to-block-your-ex-or-other-annoying-users-on-spoti-1848035911",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/85697f8174483ae945555dd350e3035e.jpg",
+      "publishedAt": "2021-11-11T00:20:00Z",
+      "content": "Spotify is finally making it possible to block other users from seeing your activity. Previously, if you wanted to block someone from spying on you and your music habits, you had to contact customer … [+1947 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "James Whitbrook",
+      "title": "Todd Howard, Man Who Announced Elder Scrolls VI 3 Years Ago, Wants You to Know the Fallout Show Is Still Happe - Gizmodo",
+      "description": "And it's not like there's a Skyrim TV show they can just re-release in the meantime.",
+      "url": "https://gizmodo.com/todd-howard-man-who-announced-elder-scrolls-vi-3-years-1848034753",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/97974127318aff78506a7f9ac6273c8d.png",
+      "publishedAt": "2021-11-11T00:00:00Z",
+      "content": "Making games is hard. So is making television. But there is something slightly ominous about Bethesdas Todd Howard explaining why the TV show the studio announced with Amazon last year to bring Fallo… [+1586 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Joseph Knoop",
+      "title": "Starfield Will Have Full Mod Support, Todd Howard Confirms - IGN - IGN",
+      "description": "Bethesda's very own Todd Howard confirmed that Starfield, the new sci-fi RPG, will have full mod support, even with a dramatically updated version of the studio's Creation engine.",
+      "url": "https://www.ign.com/articles/starfield-mod-support-bethesda",
+      "urlToImage": "https://assets-prd.ignimgs.com/2021/10/20/starfield-concept-1634746125074.jpg?width=1280",
+      "publishedAt": "2021-11-10T23:52:11Z",
+      "content": "Months after releasing a story trailer Bethesda is back with a few more details about what to expect from Starfield, its new sci-fi outer space role-playing game. Chief among them, Starfield will fea… [+1912 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Microsoft is emailing out gift cards to its online store - The Verge",
+      "description": "Microsoft is emailing people gift cards to the Microsoft Store. We’ve seen a few reports on Twitter of people receiving gift cards for $10 or even $100.",
+      "url": "https://www.theverge.com/2021/11/10/22775341/microsoft-store-gift-card-email-promotion",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/jtDn0ntvhC2lBZgTGylnjw9X_qk=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22900779/bfarsace_211004_4777_0035.jpg",
+      "publishedAt": "2021-11-10T23:42:12Z",
+      "content": "People have reported getting $10 or even $100\r\nPhoto by Becca Farsace / The Verge\r\nIts November, which means its officially the holiday season (according to Mariah Carey, at least), and Microsoft see… [+1185 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Jonathon Dornbush",
+      "title": "PS5's First Year in Review - Beyond 725 - IGN - IGN",
+      "description": "How was the PlayStation 5's first year of games, updates, and sales, and does it leave us excited for the PS5's future?",
+      "url": "https://www.ign.com/articles/ps5-first-year-in-review-games-features-sales",
+      "urlToImage": "https://assets-prd.ignimgs.com/2021/11/10/beyond-blogroll-1636583369180.jpg?width=1280",
+      "publishedAt": "2021-11-10T23:36:55Z",
+      "content": "On this week's episode of IGN's weekly PlayStation show, Podcast Beyond!, host Jonathon Dornbush is joined by Jada Griffin and Mark Medina to discuss the PS5's first year as we approach the PlayStati… [+1681 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PhoneArena"
+      },
+      "author": "Anam Hamid",
+      "title": "Galaxy S22 Plus may have the best front design of all models - phonearena.com",
+      "description": "The Galaxy S22 Ultra may have a dedicated S Pen slot, but the S22 Plus will boast a smaller chin /S.",
+      "url": "https://www.phonearena.com/news/galaxy-s22-plus-smaller-chin-than-ultra_id136353",
+      "urlToImage": "https://m-cdn.phonearena.com/images/article/136353-wide-two_1200/Galaxy-S22-Plus-may-have-the-best-front-design-of-all-models.jpg",
+      "publishedAt": "2021-11-10T23:17:27Z",
+      "content": "This is our new notification center.\r\n Inside, you will find updates on the most important things happening right now.\r\nGot it"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Best Skyrim Mods Of All Time - GameSpot",
+      "description": "In this video, DeVante runs down a list of 17 of Skyrim's best mods from the past decade.The Bee That Broke Skyrim - COMING SOON!Top 5 Skyrim Mods of the Wee...",
+      "url": "https://www.youtube.com/watch?v=O7Bk3RfdRCA",
+      "urlToImage": "https://i.ytimg.com/vi/O7Bk3RfdRCA/hqdefault.jpg",
+      "publishedAt": "2021-11-10T23:00:18Z",
+      "content": null
+    }
+  ]
+}
